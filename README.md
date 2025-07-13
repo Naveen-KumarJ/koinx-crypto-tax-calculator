@@ -4,7 +4,7 @@ An intuitive **Crypto Tax Calculator** built using **React** and **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-👉 [Live Demo Link (optional)](https://your-live-demo-url.com)
+👉 [Live Demo Link](https://koinx-crypto-tax-calculator-omega.vercel.app/)
 
 ---
 
